@@ -1,3 +1,3 @@
 # Learning
-Learning How to use GitHub
+Learning How to use GitHub <br>
 Commiting Change
