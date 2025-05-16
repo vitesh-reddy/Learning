@@ -1,4 +1,4 @@
 # Learning
-Learning How to use GitHub <br>
+Getting Familiar with GitHub <br>
 Commiting Change <br>
 Commiting Change in vs code
